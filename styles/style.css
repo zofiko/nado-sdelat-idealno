@@ -5,8 +5,7 @@
 }
 
 html {
-  height: 900px;
-  width: 1600px;
+  height: 100%;
 }
 
 .page {
@@ -67,7 +66,7 @@ html {
   line-height: 1em;
   font-weight: normal;
   text-align: left;
-  max-width: 746px;
+  max-width: 760px;
   background-color: white;
   border: black 2px solid;
   border-radius: 20px;
